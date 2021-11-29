@@ -93,12 +93,12 @@ h6 {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  max-width: 1440px;
+  max-width: 90%;
   margin: 0px auto;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  height: 100px;
+  height: 150px;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
@@ -160,7 +160,7 @@ h6 {
 }
 
 .promo {
-  background-image: url(/source/images/promo.png);
+  background-image: url(../images/promo.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -176,9 +176,9 @@ h6 {
 }
 
 .promo__container {
-  max-width: 1440px;
+  max-width: 90%;
   margin: 0px auto;
-  padding-top: 200px;
+  padding-top: 250px;
   padding-bottom: 400px;
 }
 
@@ -189,7 +189,7 @@ h6 {
 }
 
 .about__container {
-  max-width: 1440px;
+  max-width: 90%;
   margin: 0px auto;
 }
 
@@ -207,7 +207,7 @@ h6 {
   font-style: normal;
   font-weight: 700;
   line-height: 36px;
-  max-width: 1440px;
+  max-width: 90%;
   text-align: center;
   margin: 0px auto;
   color: #5f626b;

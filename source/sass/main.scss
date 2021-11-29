@@ -92,10 +92,11 @@ $normal-tablet-container: 700px;
 $large-tablet-container: 900px;
 
 $small-pc-container: 1024px;
-$normal-pc-container: 1440px;
+$normal-pc-container: 90%;
 $large-pc-container: 1440px;
 
-$header-height: 100px;
+$header-height: 150px;
+$header-logo-height: 90px;
 
 .header {
     position: absolute;
@@ -117,7 +118,7 @@ $header-height: 100px;
 
     &__logo {
         & img{
-            height: 90px;
+            height: $header-logo-height;
             position: relative;
         }
     }
@@ -161,7 +162,7 @@ $header-height: 100px;
     }
 }
 .promo {
-    background-image: url(/source/images/promo.png);
+    background-image: url(../images/promo.png);
     background-size: cover;
      background-repeat: no-repeat;
     &__text {
