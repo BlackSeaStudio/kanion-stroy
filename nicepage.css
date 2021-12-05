@@ -35429,9 +35429,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: -50px;
-    margin-right: 0;
-    margin-bottom: 40px;
+    margin: -49px 0 39px auto;
   }
 }
 @media (max-width: 575px) {
@@ -35450,7 +35448,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-menu-1 {
     margin-top: -40px;
     margin-bottom: 54px;
-    margin-left: 86px;
   }
 
   .u-header .u-sidenav-1 {
