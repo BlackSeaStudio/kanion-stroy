@@ -73,7 +73,6 @@
 .u-section-2 .u-group-1 {
   min-height: 209px;
   width: 800px;
-  height: auto;
   margin: 62px auto 0;
 }
 
@@ -211,7 +210,6 @@
 
   .u-section-2 .u-group-1 {
     margin-top: 33px;
-    height: auto;
   }
 
   .u-section-2 .u-text-1 {
@@ -860,7 +858,6 @@
   .u-section-3 .u-repeater-1 {
     min-height: 1140px;
     grid-gap: 25px 25px;
-    grid-auto-columns: 100%;
   }
 
   .u-section-3 .u-image-1 {
