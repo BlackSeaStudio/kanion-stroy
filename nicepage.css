@@ -35482,7 +35482,6 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-position-1 {
-  height: auto;
   min-height: 64px;
   margin-top: 20px;
   margin-bottom: 0;
@@ -35587,6 +35586,10 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-image-1 {
     margin-top: -1px;
+  }
+
+  .u-footer .u-position-1 {
+    height: auto;
   }
 
   .u-footer .u-layout-cell-2 {
@@ -35720,7 +35723,8 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-position-1 {
     min-height: 104px;
-    margin-left: 0;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-footer .u-layout-cell-2 {

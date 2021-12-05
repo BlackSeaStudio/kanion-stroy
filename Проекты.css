@@ -61,10 +61,10 @@
 
   .u-section-1 .u-text-1 {
     font-size: 1.5rem;
-    width: 340px;
+    width: auto;
     margin-top: 141px;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 0;
+    margin-right: 0;
   }
 } .u-section-2 {
   background-image: none;
